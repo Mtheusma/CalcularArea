@@ -1,0 +1,11 @@
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.AssemblyReference.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.Form1.resources
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.Properties.Resources.resources
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.GenerateResource.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.CoreCompileInputs.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe.config
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\bin\Debug\CalcularArea.pdb
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.exe
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\CalcularArea\CalcularArea\obj\Debug\CalcularArea.pdb
